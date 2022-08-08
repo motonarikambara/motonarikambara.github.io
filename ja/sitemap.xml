@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://motonarikambara.github.io/home/research/</loc>
+    <loc>https://motonarikambara.github.io/home/research/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/publications/</loc>
+    <loc>https://motonarikambara.github.io/publications/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/home/recentworks/</loc>
+    <loc>https://motonarikambara.github.io/home/recentworks/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/home/subheader/</loc>
+    <loc>https://motonarikambara.github.io/home/subheader/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/home/research/service3/</loc>
+    <loc>https://motonarikambara.github.io/home/research/service3/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/categories/</loc>
+    <loc>https://motonarikambara.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://motonarikambara.github.io/en/categories/"
+                href="https://motonarikambara.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://motonarikambara.github.io/categories/"
+                href="https://motonarikambara.github.io/categories/"
                 />
   </url><url>
-    <loc>http://motonarikambara.github.io/home/research/service1/</loc>
+    <loc>https://motonarikambara.github.io/home/research/service1/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/home/</loc>
+    <loc>https://motonarikambara.github.io/home/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/</loc>
+    <loc>https://motonarikambara.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://motonarikambara.github.io/en/"
+                href="https://motonarikambara.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://motonarikambara.github.io/"
+                href="https://motonarikambara.github.io/"
                 />
   </url><url>
-    <loc>http://motonarikambara.github.io/home/research/service4/</loc>
+    <loc>https://motonarikambara.github.io/home/research/service4/</loc>
   </url><url>
-    <loc>http://motonarikambara.github.io/tags/</loc>
+    <loc>https://motonarikambara.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://motonarikambara.github.io/en/tags/"
+                href="https://motonarikambara.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://motonarikambara.github.io/tags/"
+                href="https://motonarikambara.github.io/tags/"
                 />
   </url><url>
-    <loc>http://motonarikambara.github.io/home/research/service2/</loc>
+    <loc>https://motonarikambara.github.io/home/research/service2/</loc>
   </url>
 </urlset>
