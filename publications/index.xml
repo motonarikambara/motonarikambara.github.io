@@ -11,7 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://motonarikambara.github.io/publications/journal/</guid>
-      <description> M. Kambara and K. Sugiura, “Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions”, IEEE Robotics and Automation Letters, Vol. 6, Issue 4, pp. 8371-8378, 2021. DOI: 10.1109/LRA.2021.3107026 PDF </description>
+      <description> M. Kambara and K. Sugiura, “Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions”, IEEE Robotics and Automation Letters, Vol. 6, Issue 4, pp. 8371-8378, 2021. DOI: 10.1109/LRA.2021.3107026 PDF  </description>
     </item>
     
     <item>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://motonarikambara.github.io/publications/inter_conf/</guid>
-      <description> M. Kambara, K.Sugiura, “Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks”, IEEE ICIP, TP-V2.V13.14, 2022. PDF M. Kambara and K. Sugiura, “Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions”, IEEE RAL presented at IEEE/RSJ IROS, 2021. PDF </description>
+      <description>R. Korekata, M. Kambara, Y. Yoshida, S. Ishikawa, Y. Kawasaki, M. Takahashi and K. Sugiura, “Switching Head–Tail Funnel UNITER for Dual Referring Expression Comprehension with Fetch-and-Carry Tasks”, IEEE/RSJ IROS, 2023. PDF K. Kaneda, R. Korekata, Y. Wada, S. Nagashima, M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, and K. Sugiura, “DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training”, CVPR 2023 Embodied AI Workshop, 2023. PDF M. Kambara and K.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://motonarikambara.github.io/publications/award/</guid>
-      <description> M. Kambara, Y. Yoshida, K. Kaneda, S. Otsuki, R. Korekata, H. Matsuo, Y. Wada, W. Yang, K. Sugiura, Honorable Mention Award, REVERIE Challenge @ CSIG 2022, 2022年8月19日. </description>
+      <description> K. Kaneda, R. Korekata, Y. Wada, S. Nagashima, M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, K. Sugiura, CVPR 2023 Embodied AI Workshop DialFRED Challenge 1st Prize, 6/19/2023. M. Kambara, Y. Yoshida, K. Kaneda, S. Otsuki, R. Korekata, H. Matsuo, Y. Wada, W. Yang, K. Sugiura, Honorable Mention Award, REVERIE Challenge @ CSIG 2022, 8/19/2022.  </description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://motonarikambara.github.io/publications/domestic_conf/</guid>
-      <description> 神原元就, 杉浦孔明: “記号接地されたfetch-and-carryタスクの自動化と実行”, 第40回日本ロボット学会学術講演会, 4I1-01, 2022. 飯岡雄偉, 神原元就, 杉浦孔明: “物体配置タスクにおける危険性のクロスモーダル説明生成”, 第40回日本ロボット学会学術講演会, 4I1-08, 2022. 神原元就, 杉浦孔明: “日常タスクにおける将来イベントのクロスモーダル説明文生成”, 2022年度 人工知能学会全国大会, 2O1-GS-7-02, 2022. 神原元就, 杉浦孔明: “料理タスクにおける将来イベントのクロスモーダル説明文生成”, 第28回画像センシングシンポジウム 2022, SO3-24・IS3-24, 2022. 兼田寛大, 神原元就, 杉浦孔明: “Bilingual Case Relation Transformerに基づく複数言語による物体操作指示文生成”, 第39回日本ロボット学会学術講演会, 1I2-06, 2021. 神原元就, 杉浦孔明: “Case Relation Transformerに基づく対象物体及び目標領域の参照表現を含む物体操作指示文生成”, 2021年度 人工知能学会全国大会, 4J1-GS-6d-05, 2021. </description>
+      <description>平野慎之助, 小松拓実, 和田唯我, 神原元就, 畑中駿平, 平川翼, 山下隆義, 藤吉弘亘, 杉浦孔明: “ENCHANT: 大規模言語モデルを用いた仮説生成に基づくクロスモーダル説明文生成”, 第41回日本ロボット学会学術講演会, 1K4-03, 2023. 神原元就, 杉浦孔明: “マルチモーダル言語処理に基づくfetch-and-carryタスクの自動化と実行”, 2023年度 人工知能学会全国大会, 2I6-OS-4a-03, 2023. 兼田寛大, 神原元就, 杉浦孔明: “Learning to Rank Physical Objects: ランキング学習による物理世界検索エンジン”, 2023年度 人工知能学会全国大会, 3G1-OS-24a-01, 2023. 小松拓実, 神原元就, 畑中駿平, 松尾榛夏, 平川翼, 山下隆義, 藤吉弘亘, 杉浦孔明: “Nearest Neighbor Future Captioning:物体配置タスクにおける衝突リスクに関する説明文生成”, 2023年度 人工知能学会全国大会, 3G1-OS-24a-05, 2023. 是方諒介, 神原元就, 吉田悠, 石川慎太朗, 川崎陽祐, 髙橋正樹, 杉浦孔明: “Switching Head–Tail Funnel UNITERによる対象物体および配置目標に関する指示文理解と物体操作”, 2023年度 人工知能学会全国大会, 2G4-OS-21d-01, 2023. 神原元就, 杉浦孔明: “記号接地されたfetch-and-carryタスクの自動化と実行”, 第40回日本ロボット学会学術講演会, 4I1-01, 2022.</description>
     </item>
     
   </channel>

@@ -11,7 +11,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://motonarikambara.github.io/home/recentworks/crt/</guid>
-      <description>Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions There have been many studies in robotics to improve the communication skills of domestic service robots. Most studies, however, have not fully benefited from recent advances in deep neural networks because the training datasets are not large enough. In this paper, our aim is crossmodal language generation.
+      <description>Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions 
+There have been many studies in robotics to improve the communication skills of domestic service robots. Most studies, however, have not fully benefited from recent advances in deep neural networks because the training datasets are not large enough. In this paper, our aim is crossmodal language generation.
 We propose the Case Relation Transformer (CRT), which generates a fetching instruction sentence from an image, such as “Move the blue flip-flop to the lower left box.</description>
     </item>
     
