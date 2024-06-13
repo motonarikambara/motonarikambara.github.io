@@ -4,15 +4,15 @@
     <title>Homes on Motonari Kambara</title>
     <link>https://motonarikambara.github.io/home/</link>
     <description>Recent content in Homes on Motonari Kambara</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://motonarikambara.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="https://motonarikambara.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://motonarikambara.github.io/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/subheader/</guid>
-      <description>Hello! I am Motonari Kambara, and I am currently a Ph.D. student in Information and Computer Science at Keio University. My academic and research interests are deeply rooted in the intersection of Vision and Language (V&amp;amp;L), as well as the development and application of domestic service robots.</description>
+      <description>Hello! I am Motonari Kambara.&#xA;I am currently a Ph.D. student in Information and Computer Science at Keio University.&#xA;My academic and research interests are deeply rooted in the intersection of Vision and Language (V&amp;amp;L), as well as the development and application of domestic service robots.</description>
     </item>
-    
   </channel>
 </rss>

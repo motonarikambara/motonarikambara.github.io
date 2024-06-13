@@ -4,135 +4,106 @@
     <title>Motonari Kambara</title>
     <link>https://motonarikambara.github.io/</link>
     <description>Recent content on Motonari Kambara</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://motonarikambara.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="https://motonarikambara.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
       <link>https://motonarikambara.github.io/profile/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/profile/education/</guid>
-      <description> Apr. 2023 –  Keio University Ph.D. student of Open and environmental systems (Computer science)   Apr. 2021 – Mar. 2023  Keio University Master student of Open and environmental systems (Computer science)   Apr. 2017 – Mar. 2021  Keio University Bachelor student of science and engineering (Computer science)    </description>
+      <description> Apr. 2023 – Keio University Ph.D. student of Open and environmental systems (Computer science) Apr. 2021 – Mar. 2023 Keio University Master student of Open and environmental systems (Computer science) Apr. 2017 – Mar. 2021 Keio University Bachelor student of science and engineering (Computer science) </description>
     </item>
-    
     <item>
       <title>Employment</title>
       <link>https://motonarikambara.github.io/profile/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/profile/employment/</guid>
-      <description> Jun. 2023 - Dec. 2023  Internship at Mitsubishi Electric Research Laboratories (MERL), Boston, U.S.   Apr. 2023 -  JSPS Research Fellowship for Young Scientist DC1    </description>
+      <description> Jun. 2023 - Dec. 2023 Internship at Mitsubishi Electric Research Laboratories (MERL), Boston, U.S. Apr. 2023 - JSPS Research Fellowship for Young Scientist DC1 </description>
     </item>
-    
     <item>
       <title>Journal</title>
       <link>https://motonarikambara.github.io/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/publications/journal/</guid>
-      <description> M. Kambara and K. Sugiura, “Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions”, IEEE Robotics and Automation Letters, Vol. 6, Issue 4, pp. 8371-8378, 2021. DOI: 10.1109/LRA.2021.3107026 PDF  </description>
+      <description> K. Kaneda, S. Nagashima, R. Korekata, M. Kambara, and K. Sugiura, “Learning-To-Rank Approach for Identifying Everyday Objects Using a Physical-World Search Engine”, IEEE Robotics and Automation Letters, Vol. 9, Issue 3, pp. 2088-2095, 2024. DOI: 10.1109/LRA.2024.3352363 PDF M. Kambara and K. Sugiura, “Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions”, IEEE Robotics and Automation Letters, Vol. 6, Issue 4, pp. 8371-8378, 2021. DOI: 10.1109/LRA.2021.3107026 PDF </description>
     </item>
-    
     <item>
       <title></title>
       <link>https://motonarikambara.github.io/home/recentworks/crt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/recentworks/crt/</guid>
-      <description>Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions 
-There have been many studies in robotics to improve the communication skills of domestic service robots. Most studies, however, have not fully benefited from recent advances in deep neural networks because the training datasets are not large enough. In this paper, our aim is crossmodal language generation.
-We propose the Case Relation Transformer (CRT), which generates a fetching instruction sentence from an image, such as “Move the blue flip-flop to the lower left box.</description>
+      <description>Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions There have been many studies in robotics to improve the communication skills of domestic service robots. Most studies, however, have not fully benefited from recent advances in deep neural networks because the training datasets are not large enough. In this paper, our aim is crossmodal language generation.&#xA;We propose the Case Relation Transformer (CRT), which generates a fetching instruction sentence from an image, such as “Move the blue flip-flop to the lower left box.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://motonarikambara.github.io/home/recentworks/rfcm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/recentworks/rfcm/</guid>
-      <description>Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks Domestic service robots that support daily tasks are a promising solution for elderly or disabled people. It is crucial for domestic service robots to explain the collision risk before they perform actions.
-In this paper, our aim is to generate a caption about a future event. We propose the Relational Future Captioning Model (RFCM), a crossmodal language generation model for the future captioning task.</description>
+      <description>Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks Domestic service robots that support daily tasks are a promising solution for elderly or disabled people. It is crucial for domestic service robots to explain the collision risk before they perform actions.&#xA;In this paper, our aim is to generate a caption about a future event. We propose the Relational Future Captioning Model (RFCM), a crossmodal language generation model for the future captioning task.</description>
     </item>
-    
     <item>
       <title>International Conference</title>
       <link>https://motonarikambara.github.io/publications/inter_conf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/publications/inter_conf/</guid>
       <description>R. Korekata, M. Kambara, Y. Yoshida, S. Ishikawa, Y. Kawasaki, M. Takahashi and K. Sugiura, “Switching Head–Tail Funnel UNITER for Dual Referring Expression Comprehension with Fetch-and-Carry Tasks”, IEEE/RSJ IROS, 2023. PDF K. Kaneda, R. Korekata, Y. Wada, S. Nagashima, M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, and K. Sugiura, “DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training”, CVPR 2023 Embodied AI Workshop, 2023. PDF M. Kambara and K.</description>
     </item>
-    
     <item>
       <title>Award</title>
       <link>https://motonarikambara.github.io/publications/award/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/publications/award/</guid>
-      <description> K. Kaneda, R. Korekata, Y. Wada, S. Nagashima, M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, K. Sugiura, CVPR 2023 Embodied AI Workshop DialFRED Challenge 1st Prize, 6/19/2023. M. Kambara, Y. Yoshida, K. Kaneda, S. Otsuki, R. Korekata, H. Matsuo, Y. Wada, W. Yang, K. Sugiura, Honorable Mention Award, REVERIE Challenge @ CSIG 2022, 8/19/2022.  </description>
+      <description> K. Kaneda, R. Korekata, Y. Wada, S. Nagashima, M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, K. Sugiura, CVPR 2023 Embodied AI Workshop DialFRED Challenge 1st Prize, 6/19/2023. M. Kambara, Y. Yoshida, K. Kaneda, S. Otsuki, R. Korekata, H. Matsuo, Y. Wada, W. Yang, K. Sugiura, Honorable Mention Award, REVERIE Challenge @ CSIG 2022, 8/19/2022. </description>
     </item>
-    
     <item>
       <title>Skills</title>
       <link>https://motonarikambara.github.io/profile/skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/profile/skill/</guid>
-      <description> Python Pytorch, Tensorflow2 ROS GitHub: motonarikambara TOEIC: 800 AtCoder rate: 844  </description>
+      <description> Python Pytorch, Tensorflow2 ROS GitHub: motonarikambara TOEIC: 800 AtCoder rate: 844 </description>
     </item>
-    
     <item>
       <title>Domestic Conference</title>
       <link>https://motonarikambara.github.io/publications/domestic_conf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/publications/domestic_conf/</guid>
-      <description>平野慎之助, 小松拓実, 和田唯我, 神原元就, 畑中駿平, 平川翼, 山下隆義, 藤吉弘亘, 杉浦孔明: “ENCHANT: 大規模言語モデルを用いた仮説生成に基づくクロスモーダル説明文生成”, 第41回日本ロボット学会学術講演会, 1K4-03, 2023. 神原元就, 杉浦孔明: “マルチモーダル言語処理に基づくfetch-and-carryタスクの自動化と実行”, 2023年度 人工知能学会全国大会, 2I6-OS-4a-03, 2023. 兼田寛大, 神原元就, 杉浦孔明: “Learning to Rank Physical Objects: ランキング学習による物理世界検索エンジン”, 2023年度 人工知能学会全国大会, 3G1-OS-24a-01, 2023. 小松拓実, 神原元就, 畑中駿平, 松尾榛夏, 平川翼, 山下隆義, 藤吉弘亘, 杉浦孔明: “Nearest Neighbor Future Captioning:物体配置タスクにおける衝突リスクに関する説明文生成”, 2023年度 人工知能学会全国大会, 3G1-OS-24a-05, 2023. 是方諒介, 神原元就, 吉田悠, 石川慎太朗, 川崎陽祐, 髙橋正樹, 杉浦孔明: “Switching Head–Tail Funnel UNITERによる対象物体および配置目標に関する指示文理解と物体操作”, 2023年度 人工知能学会全国大会, 2G4-OS-21d-01, 2023. 神原元就, 杉浦孔明: “記号接地されたfetch-and-carryタスクの自動化と実行”, 第40回日本ロボット学会学術講演会, 4I1-01, 2022.</description>
+      <description>松尾榛夏, 神原元就, 杉浦孔明: “マルチモーダル基盤モデルと劣モジュラ最適化に基づく移動ロボットの環境探索”, 2024年度 人工知能学会全国大会, 4O3-OS-16e-03, 2024. 齋藤大地, 神原元就, 九曜克之, 杉浦孔明: “マルチモーダルLLMおよび視覚言語基盤モデルに基づく大規模物体操作データセットにおけるタスク成功判定”, 2024年度 人工知能学会全国大会, 3O1-OS-16b-02, 2024. 西村喬行, 九曜克之, 神原元就, 杉浦孔明: “マルチモーダル基盤モデルと最適輸送を用いたポリゴンマッチングによる参照表現セグメンテーション”, 2024年度 人工知能学会全国大会, 2O6-OS-16a-02, 2024. 平野慎之助, 小松拓実, 和田唯我, 神原元就, 畑中駿平, 平川翼, 山下隆義, 藤吉弘亘, 杉浦孔明: “ENCHANT: 大規模言語モデルを用いた仮説生成に基づくクロスモーダル説明文生成”, 第41回日本ロボット学会学術講演会, 1K4-03, 2023. 神原元就, 杉浦孔明: “マルチモーダル言語処理に基づくfetch-and-carryタスクの自動化と実行”, 2023年度 人工知能学会全国大会, 2I6-OS-4a-03, 2023. 兼田寛大, 神原元就, 杉浦孔明: “Learning to Rank Physical Objects: ランキング学習による物理世界検索エンジン”, 2023年度 人工知能学会全国大会, 3G1-OS-24a-01, 2023. 小松拓実, 神原元就, 畑中駿平, 松尾榛夏, 平川翼, 山下隆義, 藤吉弘亘, 杉浦孔明: “Nearest Neighbor Future Captioning:物体配置タスクにおける衝突リスクに関する説明文生成”, 2023年度 人工知能学会全国大会, 3G1-OS-24a-05, 2023.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://motonarikambara.github.io/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/subheader/</guid>
-      <description>Hello! I am Motonari Kambara, and I am currently a Ph.D. student in Information and Computer Science at Keio University. My academic and research interests are deeply rooted in the intersection of Vision and Language (V&amp;amp;L), as well as the development and application of domestic service robots.</description>
+      <description>Hello! I am Motonari Kambara.&#xA;I am currently a Ph.D. student in Information and Computer Science at Keio University.&#xA;My academic and research interests are deeply rooted in the intersection of Vision and Language (V&amp;amp;L), as well as the development and application of domestic service robots.</description>
     </item>
-    
     <item>
       <title>Application development</title>
       <link>https://motonarikambara.github.io/home/research/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/research/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Custom website design</title>
       <link>https://motonarikambara.github.io/home/research/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/research/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SEO &amp; SEM services</title>
       <link>https://motonarikambara.github.io/home/research/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/research/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wordpress integration</title>
       <link>https://motonarikambara.github.io/home/research/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://motonarikambara.github.io/home/research/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
