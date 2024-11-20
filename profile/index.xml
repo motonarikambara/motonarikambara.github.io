@@ -12,7 +12,7 @@
       <link>https://motonarikambara.github.io/profile/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://motonarikambara.github.io/profile/education/</guid>
-      <description> Apr. 2023 – Keio University Ph.D. student of Open and environmental systems (Computer science) Apr. 2021 – Mar. 2023 Keio University Master student of Open and environmental systems (Computer science) Apr. 2017 – Mar. 2021 Keio University Bachelor student of science and engineering (Computer science) </description>
+      <description> Apr. 2023 – Keio University Ph.D. student of Information and Computer Science Apr. 2021 – Mar. 2023 Keio University Master student of Information and Computer Science Apr. 2017 – Mar. 2021 Keio University Bachelor student of Information and Computer Science </description>
     </item>
     <item>
       <title>Employment</title>
@@ -26,7 +26,7 @@
       <link>https://motonarikambara.github.io/profile/skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://motonarikambara.github.io/profile/skill/</guid>
-      <description> Python Pytorch, Tensorflow2 ROS GitHub: motonarikambara TOEIC: 800 AtCoder rate: 844 </description>
+      <description> Python, Pytorch, Tensorflow2, JAX ROS GitHub: @motonarikambara </description>
     </item>
   </channel>
 </rss>
