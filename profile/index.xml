@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profile on Motonari Kambara</title>
-    <link>https://motonarikambara.github.io/profile/</link>
+    <link>http://localhost:1313/profile/</link>
     <description>Recent content in Profile on Motonari Kambara</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://motonarikambara.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/profile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
-      <link>https://motonarikambara.github.io/profile/education/</link>
+      <link>http://localhost:1313/profile/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/profile/education/</guid>
+      <guid>http://localhost:1313/profile/education/</guid>
       <description> Apr. 2023 – Keio University Ph.D. student (Information and Computer Science) Apr. 2021 – Mar. 2023 Keio University Master (Information and Computer Science) Apr. 2017 – Mar. 2021 Keio University Bachelor (Information and Computer Science) </description>
     </item>
     <item>
       <title>Employment</title>
-      <link>https://motonarikambara.github.io/profile/employment/</link>
+      <link>http://localhost:1313/profile/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/profile/employment/</guid>
+      <guid>http://localhost:1313/profile/employment/</guid>
       <description> Jun. 2023 - Dec. 2023 Internship at Mitsubishi Electric Research Laboratories (MERL), Boston, U.S. Apr. 2023 - JSPS Research Fellowship for Young Scientist DC1 </description>
     </item>
     <item>
       <title>Skills</title>
-      <link>https://motonarikambara.github.io/profile/skill/</link>
+      <link>http://localhost:1313/profile/skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/profile/skill/</guid>
+      <guid>http://localhost:1313/profile/skill/</guid>
       <description> Python, Pytorch, Tensorflow2, JAX ROS GitHub: @motonarikambara </description>
     </item>
   </channel>

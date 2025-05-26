@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://motonarikambara.github.io/profile/education/</loc>
+    <loc>http://localhost:1313/profile/education/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/profile/employment/</loc>
+    <loc>http://localhost:1313/profile/employment/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/publications/journal/</loc>
+    <loc>http://localhost:1313/publications/journal/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/research/</loc>
+    <loc>http://localhost:1313/home/research/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/recentworks/crt/</loc>
+    <loc>http://localhost:1313/home/recentworks/crt/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/recentworks/lambdarepformer/</loc>
+    <loc>http://localhost:1313/home/recentworks/lambdarepformer/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/recentworks/rfcm/</loc>
+    <loc>http://localhost:1313/home/recentworks/rfcm/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/publications/inter_conf/</loc>
+    <loc>http://localhost:1313/publications/inter_conf/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/profile/</loc>
+    <loc>http://localhost:1313/profile/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/recentworks/</loc>
+    <loc>http://localhost:1313/home/recentworks/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/publications/award/</loc>
+    <loc>http://localhost:1313/publications/award/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/profile/skill/</loc>
+    <loc>http://localhost:1313/profile/skill/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/publications/domestic_conf/</loc>
+    <loc>http://localhost:1313/publications/domestic_conf/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/subheader/</loc>
+    <loc>http://localhost:1313/home/subheader/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/research/service3/</loc>
+    <loc>http://localhost:1313/home/research/service3/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://motonarikambara.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://motonarikambara.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://motonarikambara.github.io/home/research/service1/</loc>
+    <loc>http://localhost:1313/home/research/service1/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/home/</loc>
+    <loc>http://localhost:1313/home/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://motonarikambara.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://motonarikambara.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://motonarikambara.github.io/home/research/service4/</loc>
+    <loc>http://localhost:1313/home/research/service4/</loc>
   </url><url>
-    <loc>https://motonarikambara.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://motonarikambara.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://motonarikambara.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://motonarikambara.github.io/home/research/service2/</loc>
+    <loc>http://localhost:1313/home/research/service2/</loc>
   </url>
 </urlset>

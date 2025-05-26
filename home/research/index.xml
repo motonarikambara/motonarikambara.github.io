@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Motonari Kambara</title>
-    <link>https://motonarikambara.github.io/home/research/</link>
+    <link>http://localhost:1313/home/research/</link>
     <description>Recent content in Research on Motonari Kambara</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://motonarikambara.github.io/home/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/home/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application development</title>
-      <link>https://motonarikambara.github.io/home/research/service3/</link>
+      <link>http://localhost:1313/home/research/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/home/research/service3/</guid>
+      <guid>http://localhost:1313/home/research/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Custom website design</title>
-      <link>https://motonarikambara.github.io/home/research/service1/</link>
+      <link>http://localhost:1313/home/research/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/home/research/service1/</guid>
+      <guid>http://localhost:1313/home/research/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>https://motonarikambara.github.io/home/research/service4/</link>
+      <link>http://localhost:1313/home/research/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/home/research/service4/</guid>
+      <guid>http://localhost:1313/home/research/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wordpress integration</title>
-      <link>https://motonarikambara.github.io/home/research/service2/</link>
+      <link>http://localhost:1313/home/research/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motonarikambara.github.io/home/research/service2/</guid>
+      <guid>http://localhost:1313/home/research/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
   </channel>
