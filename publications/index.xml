@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Motonari Kambara</title>
-    <link>http://localhost:1313/publications/</link>
+    <link>https://motonarikambara.github.io/publications/</link>
     <description>Recent content in Publications on Motonari Kambara</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://motonarikambara.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journal</title>
-      <link>http://localhost:1313/publications/journal/</link>
+      <link>https://motonarikambara.github.io/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/journal/</guid>
-      <description>M. Kambara and K. Suigura, &amp;ldquo;Pre-Manipulation Alignment Prediction with Parallel Deep State-Space and Transformer Models&amp;rdquo;, Advanced Robotics, To appear. K. Katsumata, M. Kambara, D. Yashima, R. Korekata, and K. Sugiura, “Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement”, IEEE Robotics and Automation Letters, Vol. 10, Issue 3, pp. 3022-3029, 2025. DOI: 10.1109/LRA.2025.3539086. PDF T. Komatsu, M. Kambara, S. Hatanaka, H. Matsuo, T. Hirakawa, T. Yamashita, H. Fujiyoshi, and K.</description>
+      <guid>https://motonarikambara.github.io/publications/journal/</guid>
+      <description>M. Kambara and K. Suigura, &amp;ldquo;Pre-Manipulation Alignment Prediction with Parallel Deep State-Space and Transformer Models&amp;rdquo;, Advanced Robotics, Vol. 39, Issue 13, pp. 806–816, 2025. DOI: 10.1080/01691864.2025.2532610. PDF K. Katsumata, M. Kambara, D. Yashima, R. Korekata, and K. Sugiura, “Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement”, IEEE Robotics and Automation Letters, Vol. 10, Issue 3, pp. 3022-3029, 2025. DOI: 10.1109/LRA.2025.3539086. PDF T. Komatsu, M. Kambara, S. Hatanaka, H.</description>
     </item>
     <item>
       <title>International Conference</title>
-      <link>http://localhost:1313/publications/inter_conf/</link>
+      <link>https://motonarikambara.github.io/publications/inter_conf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/inter_conf/</guid>
+      <guid>https://motonarikambara.github.io/publications/inter_conf/</guid>
       <description>C. Hori, M. Kambara, K. Sugiura, K. Ota, S. Khurana, S. Jain, R. Corcodel, D. Jha, D. Romeres, J. Le Roux. “Interactive Robot Action Replanning using Multimodal LLM Trained from Human Demonstration Videos”, IEEE ICASSP, pp.6390–6394, 2025. PDF M. Goko*, M. Kambara*, S. Otsuki, D. Saito, and K. Sugiura (*: Equal contribution), “Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations”, CoRL, 2024. project page, PDF K. Kaneda, S.</description>
     </item>
     <item>
       <title>Award</title>
-      <link>http://localhost:1313/publications/award/</link>
+      <link>https://motonarikambara.github.io/publications/award/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/award/</guid>
+      <guid>https://motonarikambara.github.io/publications/award/</guid>
       <description> K. Kaneda, R. Korekata, Y. Wada, S. Nagashima, M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, K. Sugiura, CVPR 2023 Embodied AI Workshop DialFRED Challenge 1st Prize, 6/19/2023. M. Kambara, Y. Yoshida, K. Kaneda, S. Otsuki, R. Korekata, H. Matsuo, Y. Wada, W. Yang, K. Sugiura, Honorable Mention Award, REVERIE Challenge @ CSIG 2022, 8/19/2022. </description>
     </item>
     <item>
       <title>Domestic Conference</title>
-      <link>http://localhost:1313/publications/domestic_conf/</link>
+      <link>https://motonarikambara.github.io/publications/domestic_conf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/domestic_conf/</guid>
+      <guid>https://motonarikambara.github.io/publications/domestic_conf/</guid>
       <description>勝又圭, 神原元就, 八島大地, 是方諒介, 杉浦孔明: “物体操作指示文生成モデルに基づくモバイルマニピュレーションのためのデータセット拡張”, 2025年度 人工知能学会全国大会, 1Win4-49, 2025. 後神美結, 神原元就, 齋藤大地, 小槻誠太郎, 杉浦孔明: “多階層アラインメント視覚表現に基づくリアルタイム物体操作タスク成功判定”, 2025年度 人工知能学会全国大会, 1Win4-51, 2025. 神原元就, 杉浦孔明: “深層状態空間モデルおよびtransformerの並列機構による物体操作前アラインメント予測”, 2025年度 人工知能学会全国大会, 1Win4-55, 2025. 神原元就, 杉浦孔明: “オフライン軌道生成による軌道に基づくopen-vocabulary物体操作タスクにおける将来成否予測”, 第42回日本ロボット学会学術講演会, 3D1-06, 2024. 勝又圭, 神原元就, 杉浦孔明: “自動評価尺度を用いた強化学習およびマルチモーダル基盤モデルに基づく物体操作指示文生成”, 第42回日本ロボット学会学術講演会, 3D3-03, 2024. 後神美結, 神原元就, 小槻誠太郎, 杉浦孔明: “マルチモーダルLLM及び視覚言語基盤モデルに基づく多階層アラインメント表現による物体操作タスク成功判定”, 第42回日本ロボット学会学術講演会, 1D2-07, 2024. 松尾榛夏, 神原元就, 杉浦孔明: “マルチモーダル基盤モデルと劣モジュラ最適化に基づく移動ロボットの環境探索”, 2024年度 人工知能学会全国大会, 4O3-OS-16e-03, 2024. 齋藤大地, 神原元就, 九曜克之, 杉浦孔明: “マルチモーダルLLMおよび視覚言語基盤モデルに基づく大規模物体操作データセットにおけるタスク成功判定”, 2024年度 人工知能学会全国大会, 3O1-OS-16b-02, 2024. 西村喬行, 九曜克之, 神原元就, 杉浦孔明: “マルチモーダル基盤モデルと最適輸送を用いたポリゴンマッチングによる参照表現セグメンテーション”, 2024年度 人工知能学会全国大会, 2O6-OS-16a-02, 2024.</description>
     </item>
   </channel>

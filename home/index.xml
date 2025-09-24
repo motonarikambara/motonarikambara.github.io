@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Motonari Kambara</title>
-    <link>http://localhost:1313/home/</link>
+    <link>https://motonarikambara.github.io/home/</link>
     <description>Recent content in Homes on Motonari Kambara</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://motonarikambara.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/home/subheader/</link>
+      <link>https://motonarikambara.github.io/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/subheader/</guid>
-      <description>I am Motonari Kambara. I am a Ph.D. student in Information and Computer Science at Keio University.&#xA;My academic and research interests are deeply rooted in the intersection of Embodied AI, Vision and Language (V&amp;amp;L), as well as the development and application of domestic service robots.</description>
+      <guid>https://motonarikambara.github.io/home/subheader/</guid>
+      <description>I am Motonari Kambara. I am a Research Fellow in SMI Lab at Keio University.&#xA;My academic and research interests are deeply rooted in the intersection of Embodied AI, Vision and Language (V&amp;amp;L), as well as the development and application of domestic service robots.</description>
     </item>
   </channel>
 </rss>
