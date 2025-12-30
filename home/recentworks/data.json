@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Relational Future Captioning Model for Explaining Likely Collisions in Daily Tasks",
+        "image": "images/ICIP.jpg",
+        "url": "home/recentworks/rfcm",
+        "items": [
+            {
+                "name": "PDF",
+                "url": "https://arxiv.org/pdf/2207.09083.pdf"
+            },
+            {
+                "name": "code",
+                "url": "https://github.com/keio-smilab22/RelationalFutureCaptioningModel"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions",
+        "image": "images/IROS.jpg",
+        "url": "home/recentworks/crt",
+        "items": [
+            {
+                "name": "PDF",
+                "url": "https://arxiv.org/pdf/2107.00789.pdf"
+            }
+        ]
+    }
+]
